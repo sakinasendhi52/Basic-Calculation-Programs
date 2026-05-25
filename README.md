@@ -11,7 +11,7 @@
 ![Program-1 Output](https://github.com/sakinasendhi52/Basic-Calculation-Programs/blob/main/output/program-1-output.png?raw=true)
 
 <h3>Program-2</h3>
-<p>Write a program to declare two numbers and display :<br>A. Addition<br>B. Subtraction<br>C. Multiplication<br>D .Division</p>
+<p>Write a program to declare two numbers and display :<br>A. Addition<br>B. Subtraction<br>C. Multiplication<br>D. Division</p>
 <h3>Code : </h3>
 
 ![Program-2 Code](https://github.com/sakinasendhi52/Basic-Calculation-Programs/blob/main/output/program-2-code.png?raw=true)
